@@ -3,7 +3,7 @@
 #include <Encoder.h>
 #include <Keyboard.h>
 
-int ENCODER_BUTTON_PIN = 4; //Rotary encoder's push button, assumes that the pin has a pull-down resistor
+int ENCODER_BUTTON_PIN = 4;
 int ACCELERATION = 4; //Accelerationeration factor for volume, use between 1 and 8
 
 int K1 = 8;
